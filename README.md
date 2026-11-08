@@ -7,5 +7,5 @@ The builds are unsigned, so the first launch needs one extra step. Each release 
 ## Games
 
 <!-- game:overwhelmed -->
-- **Overwhelmed**: [nightly-2026-11-07](https://github.com/butlersrepos/playtest-builds/releases/tag/overwhelmed-nightly-2026-11-07) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/overwhelmed-nightly-2026-11-07/Overwhelmed-nightly-2026-11-07-windows.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/overwhelmed-nightly-2026-11-07/Overwhelmed-nightly-2026-11-07-mac.zip)
+- **Overwhelmed**: [nightly-2026-11-08](https://github.com/butlersrepos/playtest-builds/releases/tag/overwhelmed-nightly-2026-11-08) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/overwhelmed-nightly-2026-11-08/Overwhelmed-nightly-2026-11-08-windows.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/overwhelmed-nightly-2026-11-08/Overwhelmed-nightly-2026-11-08-mac.zip)
 <!-- /game:overwhelmed -->
