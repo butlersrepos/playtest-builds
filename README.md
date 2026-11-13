@@ -11,7 +11,7 @@ The builds are unsigned, so the first launch needs one extra step. Each release 
 <!-- /game:overwhelmed -->
 
 <!-- game:horde-getaway -->
-- **Horde Getaway**: [daily-2026-11-10](https://github.com/butlersrepos/playtest-builds/releases/tag/horde-getaway-daily-2026-11-10-5a3e5b) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-10-5a3e5b/HordeGetaway-daily-2026-11-10-windows.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-10-5a3e5b/HordeGetaway-daily-2026-11-10-mac.zip)
+- **Horde Getaway**: [daily-2026-11-13](https://github.com/butlersrepos/playtest-builds/releases/tag/horde-getaway-daily-2026-11-13-0a07cd) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-13-0a07cd/HordeGetaway-daily-2026-11-13-windows.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-13-0a07cd/HordeGetaway-daily-2026-11-13-mac.zip)
 <!-- /game:horde-getaway -->
 
 <!-- game:hotline-mordor -->
