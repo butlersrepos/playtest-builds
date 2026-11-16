@@ -15,5 +15,5 @@ The builds are unsigned, so the first launch needs one extra step. Each release 
 <!-- /game:horde-getaway -->
 
 <!-- game:hotline-mordor -->
-- **The Last Ember**: [nightly 2026-11-15-bef1cab1](https://github.com/butlersrepos/playtest-builds/releases/tag/hotline-mordor-nightly-2026-11-15-bef1cab1) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/hotline-mordor-nightly-2026-11-15-bef1cab1/The-Last-Ember-Windows-x86_64.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/hotline-mordor-nightly-2026-11-15-bef1cab1/The-Last-Ember-macOS-universal.zip)
+- **Hotline Mordor (no longer in Dev)**: [final playtest 9255cb77](https://github.com/butlersrepos/playtest-builds/releases/tag/hotline-mordor-final-2026-11-15-9255cb77) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/hotline-mordor-final-2026-11-15-9255cb77/Hotline-Mordor-Windows-x86_64.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/hotline-mordor-final-2026-11-15-9255cb77/Hotline-Mordor-macOS-universal.zip)
 <!-- /game:hotline-mordor -->
