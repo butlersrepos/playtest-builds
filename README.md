@@ -11,7 +11,7 @@ The builds are unsigned, so the first launch needs one extra step. Each release 
 <!-- /game:overwhelmed -->
 
 <!-- game:horde-getaway -->
-- **Carpool of the Dead**: [daily-2026-11-21](https://github.com/butlersrepos/playtest-builds/releases/tag/horde-getaway-daily-2026-11-21-03fc7e) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-21-03fc7e/CarpoolOfTheDead-daily-2026-11-21-windows.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-21-03fc7e/CarpoolOfTheDead-daily-2026-11-21-mac.zip) · [Linux](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-21-03fc7e/CarpoolOfTheDead-daily-2026-11-21-linux.zip) · [Play in browser](https://carpool-of-the-dead.pages.dev/)
+- **Carpool of the Dead**: [daily-2026-11-24](https://github.com/butlersrepos/playtest-builds/releases/tag/horde-getaway-daily-2026-11-24-bd2009) · [Windows](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-24-bd2009/CarpoolOfTheDead-daily-2026-11-24-windows.zip) · [macOS](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-24-bd2009/CarpoolOfTheDead-daily-2026-11-24-mac.zip) · [Linux](https://github.com/butlersrepos/playtest-builds/releases/download/horde-getaway-daily-2026-11-24-bd2009/CarpoolOfTheDead-daily-2026-11-24-linux.zip) · [Play in browser](https://carpool-of-the-dead.pages.dev/)
 <!-- /game:horde-getaway -->
 
 <!-- game:hotline-mordor -->
